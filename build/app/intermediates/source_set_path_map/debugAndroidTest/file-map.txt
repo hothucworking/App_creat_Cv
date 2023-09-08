@@ -1,0 +1,7 @@
+com.example.flutter_cvmaker.test.app-androidTest-0 /Users/hosythuc/Projects/resume-maker/android/app/src/androidTest/res
+com.example.flutter_cvmaker.test.app-androidTestDebug-1 /Users/hosythuc/Projects/resume-maker/android/app/src/androidTestDebug/res
+com.example.flutter_cvmaker.test.app-androidTest-2 /Users/hosythuc/Projects/resume-maker/build/app/generated/res/resValues/androidTest/debug
+com.example.flutter_cvmaker.test.app-androidTest-3 /Users/hosythuc/Projects/resume-maker/build/app/generated/res/rs/androidTest/debug
+com.example.flutter_cvmaker.test.app-mergeDebugAndroidTestResources-4 /Users/hosythuc/Projects/resume-maker/build/app/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/merged.dir
+com.example.flutter_cvmaker.test.app-mergeDebugAndroidTestResources-5 /Users/hosythuc/Projects/resume-maker/build/app/intermediates/incremental/debugAndroidTest/mergeDebugAndroidTestResources/stripped.dir
+com.example.flutter_cvmaker.test.app-merged_res-6 /Users/hosythuc/Projects/resume-maker/build/app/intermediates/merged_res/debugAndroidTest

@@ -1,0 +1,7 @@
+#Thu Sep 07 13:10:54 ICT 2023
+base.0=/Users/hosythuc/Projects/resume-maker/build/app/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/0/classes.dex
+base.1=/Users/hosythuc/Projects/resume-maker/build/app/intermediates/dex/debugAndroidTest/mergeProjectDexDebugAndroidTest/4/classes.dex
+path.0=0/classes.dex
+path.1=4/classes.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex
